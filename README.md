@@ -1,4 +1,4 @@
-# UAlberta-Multimedia-Masters-Program
+# UAlberta-Multimedia-Masters-Program Part 1 & 2
 # Interpretable AI: Image Classification with Improved Visual Attention
 
 This repository contains source code for Part 1 & 2 of our project which is based on improving Activation based techniques
