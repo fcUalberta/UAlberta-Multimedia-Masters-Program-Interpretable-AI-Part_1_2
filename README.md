@@ -61,7 +61,7 @@ Part 2:
 - Integrated Gradients https://arxiv.org/abs/1703.01365
 
 ### References kernels:
-https://github.com/adityac94/Grad_CAM_plus_plus
-https://github.com/totti0223/gradcamplusplus
-https://github.com/yiskw713/SmoothGradCAMplusplus
-Integrated Gradients implemented from https://github.com/ankurtaly/Integrated-Gradients
+- https://github.com/adityac94/Grad_CAM_plus_plus
+- https://github.com/totti0223/gradcamplusplus
+- https://github.com/yiskw713/SmoothGradCAMplusplus
+- Integrated Gradients implemented from https://github.com/ankurtaly/Integrated-Gradients
