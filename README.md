@@ -21,7 +21,7 @@ Part 2:
 ![GitHub Logo](/FinalResults/part2_struc.png)
 
 ## Hardware Requirements
-1. Google Colab with 25 G RAM
+1. Google Colab with 25 GB RAM
 1. GPU is not mandatory
 
 ## Software Requirements
