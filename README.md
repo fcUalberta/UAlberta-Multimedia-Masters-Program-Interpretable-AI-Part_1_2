@@ -30,9 +30,10 @@ Part 2:
 ## How to run this application?
 
 1. Create environment with requirements.txt
-1. Make sure you have hardware requirements
+1. Make sure you have hardware requirements 
 1. Download the folder
 1. Open code/Part1_CamOnDiffClassifiers.ipynb to run Part 1 or code/Part2_NovelCombination.ipynb to run Part 2
+1. If running on Google Colab, upload this project, mount your Google drive by uncommenting the first cell
 1. Change the base directory to reflect your local file structure
 1. Run each cell in sequential order
 
