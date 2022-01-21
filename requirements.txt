@@ -1,4 +1,4 @@
-ipython==5.5.0
+ipython==7.16.3
 jupyter==1.0.0
 jupyter-client==5.3.4
 jupyter-console==5.2.0
